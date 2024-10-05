@@ -11,6 +11,7 @@ var APP_DATA = {
         },
         {
           "tileSize": 512,
+          "size": 512
         },
         {
           "tileSize": 512,
